@@ -21,7 +21,7 @@ This application predicts the **Drain Current (Id)** of a **Nano-Wire Field-Effe
 ---
 
 ## 🖼️ Screenshots
-![App Screenshot](image.png)  
+![App Screenshot](nano-wire.png)  
 *Example of the app interface showing input fields and the prediction result.*
 
 ---
@@ -41,6 +41,12 @@ This application predicts the **Drain Current (Id)** of a **Nano-Wire Field-Effe
 - The predicted Drain Current will appear below the form.
 
 ---
+## Access the App
+- Open your browser and go to:
+- https://project-ii-nanowire.streamlit.app/
+
+---
+
 ## 📬 Contact
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
